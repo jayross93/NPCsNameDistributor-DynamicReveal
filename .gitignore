@@ -1,0 +1,8 @@
+**/build/
+**/buildae/
+**/vcpkg_installed/
+**/*.pdb
+**/.vs/
+.claude/
+CLAUDE.md
+/*.zip
